@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Astha aka @aucodes 
-- 👩‍🎓 I'm currently studying my masters in Technology Managment.
+- 👩‍🎓 I'm currently studying my masters in Technology Managment in Aalborg University
 - 👀 I’m interested in researching towards intersection of human centric AI and ethics in designing software.
 - 📫 Reach me via Linkedin : https://www.linkedin.com/in/aucodes/
 - 📍 Currently in Copenhagen,Denmark
